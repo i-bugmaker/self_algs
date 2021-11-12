@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/第一章算法概论第一讲初识算法/第一章算法概论第一讲初识算法.iml" filepath="$PROJECT_DIR$/第一章算法概论第一讲初识算法/第一章算法概论第一讲初识算法.iml" />
+      <module fileurl="file://$PROJECT_DIR$/第一章算法概论第三讲算法举例/第一章算法概论第三讲算法举例.iml" filepath="$PROJECT_DIR$/第一章算法概论第三讲算法举例/第一章算法概论第三讲算法举例.iml" />
+      <module fileurl="file://$PROJECT_DIR$/第二章分治法第一讲分治与递归/第二章分治法第一讲分治与递归.iml" filepath="$PROJECT_DIR$/第二章分治法第一讲分治与递归/第二章分治法第一讲分治与递归.iml" />
+    </modules>
+  </component>
+</project>
